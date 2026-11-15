@@ -4,7 +4,7 @@ Listora Studio is a Chrome extension for sellers who edit Second Life Marketplac
 
 > The extension is named **Listora Studio** in Chrome. “Marketplace Studio” was the working name in the documentation brief. This guide uses the name shown by the product.
 
-![Studio editing a demonstration listing](images/studio.png)
+![Studio editing a demonstration listing](images/bulk.png)
 
 ## Get Listora Studio
 
@@ -40,7 +40,5 @@ Listora Studio is a Chrome extension for sellers who edit Second Life Marketplac
 ## Help
 
 [Tips and workflows](tips-and-workflows.md) · [Troubleshooting](troubleshooting.md) · [FAQ](faq.md)
-
-Screenshots show examples from version 0.2.0. Names, categories and available Marketplace actions can differ in your store. All chapters except Quick Fill have a screenshot; the [screenshot checklist](images/README.md) records the remaining capture.
 
 Need a license? The direct official product link is pending confirmation. See [license activation](license-activation.md) if you already have a key.
