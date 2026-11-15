@@ -6,10 +6,6 @@
 
 Confirm the extension is enabled at `chrome://extensions`, the popup says **active**, and its enabled switch is on. Reload the Marketplace tab. Studio appears on seller product edit pages; Bulk Editor appears on **Manage Listings** under `/merchants/.../store/products`. It does not appear on the Marketplace home page.
 
-## Chrome cannot load the extension
-
-**Load unpacked** needs the folder containing `manifest.json`. A source archive needs a successful `npm run build` first; choose `dist` afterward. See [installation](installation.md).
-
 ## License activation fails
 
 Check the key for typing mistakes and confirm internet access. **This license key was not accepted** means the licensing service rejected it. **The license server is unreachable** means the connection or service failed; retry later. If rejection persists, contact the product seller. Do not post a key in a public issue. The direct official product and renewal links are pending confirmation.
@@ -33,11 +29,5 @@ Check file type, size and dimensions in [Image tools](image-tools.md). Inspect t
 ## Templates or history disappeared
 
 Check that you use the same Chrome profile and merchant account. These records live in extension storage and can disappear when that storage is cleared or the extension is removed. History keeps the latest record per product. See [Publishing history](publishing-history.md).
-
-## Data and support
-
-The extension uses your signed-in Marketplace session for product operations. Licensing sends the key or license token and installation ID to `marketplace-studio.didyacool.workers.dev`. Templates, variable sets and publishing history live locally in Chrome. The extension does not ask for your Second Life password.
-
-For support, share the extension version, Marketplace page type and exact error text. Keep license keys, tokens and private store data out of public reports.
 
 Need a license? The direct official product link is pending confirmation. See [activation](license-activation.md).
