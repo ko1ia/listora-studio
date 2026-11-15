@@ -4,7 +4,13 @@
 
 In **Bulk Editor → Template variables**, write `{{variable}}` in a name, description, keyword or product feature draft. The preview shows each product's resulting text before you save or publish.
 
-> **Screenshot placeholder:** Template variables and per-product value preview with demonstration listings (`images/dynamic-variables.png`).
+![Template variables settings with automatic and custom variables](images/dynamic-variables.png)
+
+*Template variables settings include automatic values and the custom `{{color}}` variable.*
+
+![Bulk Editor rows showing a color variable value for each product](images/bulk.png)
+
+*The Variables column shows each product's current `{{color}}` value.*
 
 | Variable | Value |
 | --- | --- |

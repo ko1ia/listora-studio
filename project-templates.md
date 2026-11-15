@@ -4,7 +4,9 @@
 
 A project template stores reusable Bulk Editor settings, including field modes, chosen values, properties and template variables. It does not save a Marketplace listing by itself.
 
-> **Screenshot placeholder:** Template editor with a demonstration collection template (`images/project-templates.png`).
+![Project template editor with a saved Jeans template and filled listing fields](images/project-templates.png)
+
+*A saved template contains a name pattern, price, category and description.*
 
 ## Save and reuse
 

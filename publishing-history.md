@@ -4,7 +4,9 @@
 
 Click **Published history** in Bulk Editor to see locally saved records of products published through the extension. Records include the saved state and variables used for that product. Use **Open editor** to inspect a product on Marketplace.
 
-> **Screenshot placeholder:** Published history with a demonstration product and its saved variables (`images/publishing-history.png`).
+![Published history with saved products and color variable values](images/publishing-history.png)
+
+*The local history lists saved products and the variable values used for them.*
 
 The history is scoped to the current merchant and Chrome profile. It stores the latest record for a product, so publishing it again replaces the prior record. It is not a complete Marketplace audit log and does not include changes made elsewhere.
 

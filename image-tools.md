@@ -4,7 +4,9 @@
 
 Use **Media** on a product edit page to inspect images and reach Marketplace's upload controls. The single-listing image editor prepares a local image before you hand it to Marketplace's uploader.
 
-> **Screenshot placeholder:** Single-listing image editor showing a demonstration image and preparation controls (`images/image-tools.png`).
+![Single-listing image editor with image preview and preparation controls](images/image-tools.png)
+
+*The image editor previews a selected file before it is prepared for upload.*
 
 1. Open **Media**, click **Upload an image**, then click **Choose image** in the uploader.
 2. Select a PNG, JPEG or GIF. Review the preview and any size warnings.

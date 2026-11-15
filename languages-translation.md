@@ -4,7 +4,9 @@
 
 Open **Languages** in the single-product Studio. Choose a language tab to edit the Marketplace fields for **Japanese**, **German**, **French**, **Portuguese** or **Spanish**. Each language has its own title, five features, description and keywords when those native fields exist.
 
-> **Screenshot placeholder:** Languages tab with one demonstration translation and the translation controls (`images/languages-translation.png`).
+![Languages tab with Japanese text and completed translation status](images/languages-translation.png)
+
+*The Languages tab shows the translation controls and a Japanese example.*
 
 1. Fill the English content on **Content** first.
 2. Open **Languages** and select a locale. You can type localized text directly.

@@ -4,7 +4,9 @@
 
 In Bulk Editor, **Review changes** compares each selected product's current Marketplace values with the local draft, including expanded variables and missing required fields. The lower **Publish Selected** button also opens this review; it does not bypass it.
 
-> **Screenshot placeholder:** Review changes panel comparing one demonstration product before and after (`images/review-publishing.png`).
+![Review changes panel comparing product names before and after editing](images/review-publishing.png)
+
+*The review compares current values with proposed changes before saving or publishing.*
 
 1. Check the selected product list and every proposed field, including names, price, category, permissions, features and Demo Item changes.
 2. Resolve warnings. If Marketplace data changed since the draft was loaded, rerun the review instead of forcing an older value over it.

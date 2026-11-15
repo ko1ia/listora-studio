@@ -4,7 +4,9 @@
 
 Open **Bulk Editor → Description tools** when several selected listings need a shared text change. Empty fields do nothing.
 
-> **Screenshot placeholder:** Description tools with a demonstration text change and preview (`images/description-tools.png`).
+![Description tools with text to add before and after a product description](images/description-tools.png)
+
+*These fields prepare shared text changes. The resulting text is checked in Review changes.*
 
 | Control | Action |
 | --- | --- |
