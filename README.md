@@ -1,0 +1,46 @@
+# Listora Studio user guide
+
+Listora Studio is a Chrome extension for sellers who edit Second Life Marketplace listings. It provides **Studio** on a product edit page and **Bulk Editor** on **Manage Listings**. Use this guide to install it, activate a license, prepare listings, and check the result of every save or publication.
+
+> The extension is named **Listora Studio** in Chrome. “Marketplace Studio” was the working name in the documentation brief. This guide uses the name shown by the product.
+
+![Studio editing a demonstration listing](images/studio.png)
+
+## Get Listora Studio
+
+**Purchase, activate, or renew your license:** The direct official Second Life Marketplace product URL is pending confirmation. Once supplied, the purchase and renewal link will appear here. Already have a key? Follow [installation](installation.md) and [license activation](license-activation.md). License duration and renewal terms depend on the product listing and your seller.
+
+## Start here
+
+1. [Getting started](getting-started.md) — a short first-listing workflow.
+2. [Installation](installation.md) — load a supplied build or build from source.
+3. [License activation](license-activation.md) — enter your key and confirm status.
+
+## Single listing
+
+| Chapter | What you will learn |
+| --- | --- |
+| [Product Editor](product-editor.md) | General, Content, Media, Advanced, saving and Original view |
+| [Quick Fill](quick-fill.md) | Copy fields from another Marketplace listing |
+| [Languages and translation](languages-translation.md) | Edit localized fields and use browser translation if available |
+| [Image tools](image-tools.md) | Prepare a single listing image and use Marketplace upload controls |
+
+## Multiple listings
+
+| Chapter | What you will learn |
+| --- | --- |
+| [Bulk Editor](bulk-editor.md) | Scan, search, select and edit Unlisted products |
+| [Bulk Image Editor](bulk-image-editor.md) | Match, queue and upload images |
+| [Dynamic variables](dynamic-variables.md) | Use `{{variable}}` in listing text |
+| [Project templates](project-templates.md) | Save and reuse bulk settings |
+| [Description tools](description-tools.md) | Add text and run Find & Replace |
+| [Review and publishing](review-publishing.md) | Compare changes, save or publish, and handle failures |
+| [Publishing history](publishing-history.md) | Revisit locally stored results |
+
+## Help
+
+[Tips and workflows](tips-and-workflows.md) · [Troubleshooting](troubleshooting.md) · [FAQ](faq.md)
+
+Screenshots show demonstration products from version 0.2.0. Names, categories and available Marketplace actions can differ in your store. The screenshot collection currently covers activation, Studio and Bulk Editor. Other chapters contain clearly marked placeholders; the [screenshot checklist](images/README.md) records what to add later.
+
+Need a license? The direct official product link is pending confirmation. See [license activation](license-activation.md) if you already have a key.
