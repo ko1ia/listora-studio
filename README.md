@@ -8,12 +8,12 @@ Listora Studio is a Chrome extension for sellers who edit Second Life Marketplac
 
 ## Get Listora Studio
 
-**Purchase, activate, or renew your license:** The direct official Second Life Marketplace product URL is pending confirmation. Once supplied, the purchase and renewal link will appear here. Already have a key? Follow [installation](installation.md) and [license activation](license-activation.md). License duration and renewal terms depend on the product listing and your seller.
+**After purchase:** You receive a HUD in Second Life. Click it to open the license website, where you can find your license and download the extension. Then follow [installation](installation.md) and [license activation](license-activation.md). The direct official Second Life Marketplace product URL is pending confirmation; license duration and renewal terms depend on the product listing and seller.
 
 ## Start here
 
-1. [Getting started](getting-started.md) — a short first-listing workflow.
-2. [Installation](installation.md) — load a supplied build or build from source.
+1. [Getting started](getting-started.md) — purchase, HUD, download and first-listing workflow.
+2. [Installation](installation.md) — install the downloaded build or build from source.
 3. [License activation](license-activation.md) — enter your key and confirm status.
 
 ## Single listing

@@ -2,11 +2,11 @@
 
 [← Getting started](getting-started.md) · [Guide home](README.md) · [Next: License activation →](license-activation.md)
 
-You need Chrome and access to Second Life Marketplace. If you received a ready-to-load extension folder, you do not need Node.js. Building from this repository requires Node.js 20 or newer.
+You need Chrome and access to Second Life Marketplace. After purchase, click the delivered HUD in Second Life to open the license website and download the extension. Installing that supplied build does not require Node.js. Building from source requires Node.js 20 or newer.
 
 ## Install a supplied build
 
-1. Extract the supplied archive.
+1. Download the extension from the license website opened by your HUD. If the download is an archive, extract it.
 2. Find the folder containing `manifest.json`, `content.js`, `background.js`, `popup.html` and `studio.css`.
 3. Open `chrome://extensions` in Chrome, enable **Developer mode**, then click **Load unpacked**.
 4. Select that folder, not its parent or the archive. Look for the **Listora Studio** card.

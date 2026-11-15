@@ -4,7 +4,7 @@
 
 ## Where do I get or renew a license?
 
-Use the official Listora Studio product listing on Second Life Marketplace. Its direct URL has not yet been confirmed for this guide. The renewal route and license terms also need confirmation from the seller. If you already have a key, follow [activation](license-activation.md).
+After purchase, click the delivered HUD in Second Life. It opens the license website, where you can find your license and download the extension. The direct Marketplace product URL and renewal route have not yet been confirmed for this guide. If you already have a key, follow [activation](license-activation.md).
 
 ## Does Unlisted mean a new product?
 

@@ -6,7 +6,7 @@ Click the **Listora Studio** icon in Chrome after installation. Until activation
 
 ![License key entry in the extension popup](images/activation.png)
 
-1. Obtain a license key from the official product seller. The direct product listing URL is pending confirmation.
+1. After purchase, click the delivered HUD in Second Life to open the license website. Copy your license from that website and download the extension there if you have not installed it yet.
 2. Paste it into **License** and click **activate**.
 3. Wait for **License activated. The studio is ready.** The popup then shows **active** and the expiration date returned by the license service.
 4. Sign in to Marketplace, open a seller product page and reload it if necessary.

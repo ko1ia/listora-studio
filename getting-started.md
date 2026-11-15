@@ -4,13 +4,19 @@
 
 Listora Studio works on seller product pages of Second Life Marketplace in Chrome. **Studio** changes one listing; **Bulk Editor** prepares changes for several Unlisted products. You need an active license and a seller account.
 
+## From purchase to installation
+
+1. After purchasing Listora Studio, receive the HUD delivered with the product.
+2. Attach the HUD in Second Life and click it. The HUD opens the license website in your browser.
+3. On that website, find your license and download the extension.
+4. Follow [Installation](installation.md) to add the downloaded extension to Chrome, then [activate your license](license-activation.md) in its toolbar popup.
+
 ## Your first listing
 
-1. [Install](installation.md) the extension and [activate](license-activation.md) your key from its toolbar popup.
-2. Sign in to Second Life Marketplace and open an existing product's **Edit Item Listing** page.
-3. In **Studio**, open **Content**. Change a small field, such as a keyword, and check the other tabs.
-4. Click **Update listing**. Correct highlighted required fields if prompted. If Marketplace shows an error outside Studio, switch to **Original** to read it.
-5. Reload the product page and confirm the saved value.
+1. Sign in to Second Life Marketplace and open an existing product's **Edit Item Listing** page.
+2. In **Studio**, open **Content**. Change a small field, such as a keyword, and check the other tabs.
+3. Click **Update listing**. Correct highlighted required fields if prompted. If Marketplace shows an error outside Studio, switch to **Original** to read it.
+4. Reload the product page and confirm the saved value.
 
 Studio edits Marketplace's existing form. Opening a tab or typing is not a save. **Update listing** submits the form to Marketplace.
 
@@ -23,4 +29,4 @@ Studio edits Marketplace's existing form. Opening a tab or typing is not a save.
 
 **Unlisted** is a Marketplace status, not a synonym for “new.” Older hidden products may be included. **New since last scan** only means the extension did not see that product in its previous scan.
 
-Need a license? The direct official product link is pending confirmation. See [activation](license-activation.md).
+The direct Marketplace purchase link is pending confirmation. After purchase, use the delivered HUD to open the license website and download the extension.
